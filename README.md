@@ -14,4 +14,4 @@ SQL injection scanner
   ```
 
 
-![alt text](https://s4.uupload.ir/files/screenshot_20210907_030356_xcss.png)
+
